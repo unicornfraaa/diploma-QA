@@ -19,7 +19,7 @@
 
 4.	Запустить приложение:
 
-5.	`java -jar artifacts/aqa-shop/aqa-shop.jar --spring.datasource.url=jdbc:postgresql://localhost:5432/app `
+5.	`java -jar artifacts/aqa-shop.jar --spring.datasource.url=jdbc:postgresql://localhost:5432/app `
 
 6.	Открыть второй терминал
 7.	Запустить тесты:
@@ -47,7 +47,7 @@
 docker-compose up -d
 4.	Запустить приложение:
 
-`java -jar artifacts/aqa-shop/aqa-shop.jar --spring.datasource.url=jdbc:mysql://localhost:3306/app`
+`java -jar artifacts/aqa-shop.jar --spring.datasource.url=jdbc:mysql://localhost:3306/app`
 
 5.	Открыть второй терминал
 6.	Запустить тесты:
