@@ -11,11 +11,11 @@
 
 ### Результаты тестов по градации серьезности:
 
-![](/Users/Ksenia/IdeaProjects/AQA/diploma-QA/png/1.png)
+![1](https://user-images.githubusercontent.com/100793759/198313516-db9b9422-8291-4c43-93b0-ca8c68f258d8.png)
 
 ### Результаты тестов по тестируемому функционалу:
 
-![](/Users/Ksenia/IdeaProjects/AQA/diploma-QA/png/2.png)
+![2](https://user-images.githubusercontent.com/100793759/198313654-55293e92-5433-4610-afe6-c0c79b5f9cbc.png)
 
 ### Общие итоги:
 
